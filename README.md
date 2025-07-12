@@ -34,6 +34,11 @@ A magical drag-and-drop file sharing app that instantly shares files via QR or l
 pip install flask pyqt5 qrcode[pil] pyngrok pyperclip playsound
 ```
 
+```bash
+git clone https://github.com/Priyanshu-1477/QuickDrop.git
+cd QuickDrop
+```
+
 👉 You also need:
 
 * [ngrok account](https://dashboard.ngrok.com/signup)
@@ -120,4 +125,4 @@ Made with ❤️ using Python and caffeine ☕
 
 ## 📃 License
 
-MIT License
+[MIT License](LICENSE)
