@@ -1,0 +1,5 @@
+.env
+utils.py
+qr.png
+shared_files/
+quickdrop_client.py
